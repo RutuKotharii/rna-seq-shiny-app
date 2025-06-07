@@ -40,6 +40,7 @@ The application uses RNA-Seq data from post-mortem human brain tissue of Hunting
 ### **1. Install R and RStudio**  
 Ensure you have the latest versions of [R](https://cran.r-project.org/) and [RStudio](https://rstudio.com/).  
 
+
 ### **2. Install Required Packages**  
 Run the following commands to install all necessary libraries:  
 ```R
