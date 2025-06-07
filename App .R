@@ -6,7 +6,6 @@ library(ggplot2)
 library(pheatmap)
 library(tidyr)
 
-
 # Sourcing helper functions from an external file
 source("functions.R")
 
