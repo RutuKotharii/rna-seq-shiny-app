@@ -2,7 +2,6 @@
 if (!requireNamespace("BiocManager", quietly = TRUE)) {
   install.packages("BiocManager")
 }
-
 # Installing Bioconductor packages if not already installed
 BiocManager::install(c("fgsea", "msigdbr", "dplyr", "ggplot2"))
 
