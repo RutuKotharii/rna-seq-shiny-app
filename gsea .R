@@ -5,6 +5,7 @@ library(fgsea)
 library(msigdbr)
 library(readr)
 
+
 # Function to prepare ranked list from differential expression results
 prepare_ranked_list <- function(de_results, ranking_metric = "log2FoldChange") {
   ranked_list <- de_results %>%
